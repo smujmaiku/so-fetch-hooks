@@ -1,0 +1,23 @@
+# npm
+node_modules
+package-lock.json
+src
+example
+
+# Coverage
+coverage
+benchmarks/graphs
+
+# Storybook
+storybook-static
+
+# General Garbage
+*.log
+*.gz
+.DS_Store*
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*~
+.*

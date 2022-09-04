@@ -1,0 +1,22 @@
+# build
+lib
+
+# npm
+node_modules
+
+# Coverage
+coverage
+benchmarks/graphs
+
+# Storybook
+storybook-static
+
+# General Garbage
+*.log
+*.gz
+.DS_Store*
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*~
